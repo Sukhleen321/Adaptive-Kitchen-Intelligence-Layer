@@ -1,2 +1,2 @@
 # Adaptive-Kitchen-Intelligence-Layer
-Built a simulation-based signal enhancement framework to improve KPT prediction stability by 35–40% in controlled experiments.
+Simulation-based signal enhancement framework to improve Kitchen Prep Time (KPT) prediction stability and reduce error using bias correction and stress indexing.
